@@ -1,0 +1,1 @@
+/usr/bin/gcc -g -rdynamic CMakeFiles/default.dir/struct.c.o -o default 

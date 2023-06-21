@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/sai/CODE Linux/c revision/build",
+  "command": "/usr/bin/gcc   -g -std=c11 -o CMakeFiles/default.dir/struct.c.o -c \"/home/sai/CODE Linux/c revision/struct.c\"",
+  "file": "/home/sai/CODE Linux/c revision/struct.c",
+  "output": "CMakeFiles/default.dir/struct.c.o"
+}
+]
