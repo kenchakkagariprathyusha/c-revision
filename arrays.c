@@ -1,4 +1,7 @@
 #include <stdio.h>
+//done by praveennn
+///hii
+lkjhgf
 
 int main() {
   int myNumbers[] = {25, 5, 6, 12, 0, 2};
