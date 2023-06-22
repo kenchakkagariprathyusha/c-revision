@@ -8,6 +8,6 @@ int main() {
       // we can see the indices using the clangd extension
 
       int i,g;
-  int arr1[][g] = {};
+  int arr1[][] = {};
   return 0;
 }
